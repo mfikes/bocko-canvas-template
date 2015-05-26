@@ -15,4 +15,5 @@
       ["project.clj" (render "project.clj" data)]
       ["index.html" (render "index.html" data)]
       ["script/repl" (render "repl" data) :executable true]
+      ["script/repl.bat" (render "repl.bat" data)]
       ["src/{{sanitized}}/core.cljs" (render "core.cljs" data)])))

@@ -1,7 +1,7 @@
 # Usage
 
 1. `lein cljsbuild once dev`
-2. `script/repl`
+2. `script/repl` or `script\repl.bat`
 3. Point browser to `http://localhost:9000`
 4. Then in the REPL `(require '[bocko.core :refer [color plot scrn hlin vlin clear *color*]])`
 
