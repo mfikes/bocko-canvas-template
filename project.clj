@@ -1,4 +1,4 @@
-(defproject bocko-canvas/lein-template "0.2.0"
+(defproject bocko-canvas/lein-template "1.0.0"
   :description "Template for Bocko Canvas"
   :url "https://github.com/mfikes/bocko-canvas-template"
   :license {:name "Eclipse Public License"
